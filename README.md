@@ -5,7 +5,7 @@
   - app deployment
 - 🌱 I’m currently learning 3D GAN modeling
 - 💞️ I’m looking to collaborate on adapting ML research for commercially viable apps
-- 📫 How to reach me: https://frederickroman.com
+- 📫 How to reach me: https://www.frederickroman.com
 
 <!---
 FrederickRoman/FrederickRoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
