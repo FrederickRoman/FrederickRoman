@@ -1,3 +1,5 @@
+   <img src="https://github.com/FrederickRoman/navlead/blob/main/public/img/Frederick_Roman.png" height="300" alt="Frederick Roman photo"/>
+
 - 👋 Hi, I’m @FrederickRoman
 - 👀 I’m interested in building Machine Learning Apps:
   - data collection and analysis
